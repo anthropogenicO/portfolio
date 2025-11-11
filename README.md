@@ -21,7 +21,7 @@ A modern, responsive portfolio website featuring smooth animations, a typing eff
 
 ## 📬 Let's Connect
 
-- 📧 **Email:** [your-email@gmail.com]
+- 📧 **Email:** [heheo1950@gmail.com]
 - 💼 **LinkedIn:** [Mridul Hasan](https://www.linkedin.com/in/mridul-hasan0)
 - 💻 **GitHub:** [anthropogenicO](https://github.com/anthropogenicO)
 - 📱 **Instagram:** [mrhos_oo](https://www.instagram.com/mrhos_oo/)
@@ -30,4 +30,4 @@ A modern, responsive portfolio website featuring smooth animations, a typing eff
 ---
 
 📍 **Location:** Dhaka, Bangladesh  
-✨ **Made with ❤️ by Mridul Hasan**
+🌊 **Made by Mridul Hasan**
