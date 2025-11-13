@@ -8,6 +8,7 @@
   --card: #3b0202;
   --card-2: #ffffff;
   --shadow: 0 10px 30px rgba(255, 56, 56, 0.15);
+  --nav-height: 48px;
 }
 
 * {
@@ -74,6 +75,7 @@ body::after {
 
 .section {
   padding: 60px 0;
+  scroll-margin-top: var(--nav-height);
 }
 
 
@@ -108,13 +110,18 @@ body::after {
   border-bottom: 1px solid rgb(255, 255, 255);
   z-index: 1000;
   transition: all 0.3s ease;
+  height: var(--nav-height);
+  display: flex;
+  align-items: center;
 }
 
 .nav-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 8px 20px;
+  min-height: var(--nav-height);
+  padding: 0 20px;
+  gap: 16px;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -123,6 +130,9 @@ body::after {
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--text);
+  display: flex;
+  align-items: center;
+  line-height: 1;
 }
 
 .logo-accent {
@@ -133,6 +143,7 @@ body::after {
   display: flex;
   list-style: none;
   gap: 30px;
+  align-items: center;
 }
 
 .nav-link {
@@ -167,13 +178,19 @@ body::after {
 .nav-social {
   display: flex;
   gap: 15px;
+  margin-left: auto;
+  align-items: center;
 }
 
 .social-icon {
   color: #888888; /* grey color for non-hover state */
   transition: all 0.3s ease;
-  padding: 8px;
+  padding: 6px;
   border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 0;
 }
 
 .social-icon:hover {
@@ -511,7 +528,7 @@ body::after {
 @media (max-width: 768px) {
   .nav-menu {
     position: fixed;
-    top: 70px;
+    top: var(--nav-height);
     left: 0;
     width: 100%;
     background: rgba(6, 21, 38, 0.95);
@@ -553,13 +570,13 @@ body::after {
   }
 
   .avatar-container {
-    width: 350px;
-    height: 350px;
+    width: 380px;
+    height: 380px;
   }
 
   .sun-core {
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 120px;
   }
 
 
@@ -649,13 +666,13 @@ body::after {
   }
 
   .avatar-container {
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
   }
 
   .sun-core {
-    width: 60px;
-    height: 60px;
+    width: 100px;
+    height: 100px;
   }
 
 
@@ -713,7 +730,7 @@ body::after {
   }
 
   .nav-container {
-    padding: 12px 15px;
+    padding: 0 15px;
   }
 
 
