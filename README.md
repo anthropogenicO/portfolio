@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website featuring smooth animations, a typing effect, and clean design. Built to showcase my projects and skills with an elegant user experience.
 
-🌐 **Live Demo:** [View Portfolio](https://your-live-link-here.com)
+🌐 **Live Demo:** [View Portfolio](https://mridul.sopdad.com)
 
 ## ✨ Features
 
