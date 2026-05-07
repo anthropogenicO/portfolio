@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/links", "destination": "/links.html" },
+    { "source": "/spotify", "destination": "/spotify.html" }
+  ]
+}
