@@ -22,10 +22,8 @@ A modern, responsive portfolio website featuring smooth animations, a typing eff
 ## 📬 Let's Connect
 
 - 📧 **Email:** [heheo1950@gmail.com]
-- 💼 **LinkedIn:** [Mridul Hasan](https://www.linkedin.com/in/mridul-hasan0)
-- 💻 **GitHub:** [anthropogenicO](https://github.com/anthropogenicO)
-- 📱 **Instagram:** [mrhos_oo](https://www.instagram.com/mrhos_oo/)
-- 💬 **WhatsApp:** [+8801829709680](https://wa.me/8801829709680)
+- 💻 **GitHub:** [anthropogenicO](https://github.com/scradlebob)
+- 📱 **Instagram:** [mrhos_oo](https://www.instagram.com/scradlebob/)
 
 ---
 
